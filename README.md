@@ -10,6 +10,7 @@
 
 
 **Objetivo:** Analisar uma base de dados com preços de automóveis, aplicar machine learning com o modelo Linear Regression, a fim de prever os preços dos automóveis através das variáveis explicativas que constam na base de dados.
+
 Regressão Linear: técnica estatística que permite modelar a relação entre variáveis independentes e uma variável dependente. 
 
 
