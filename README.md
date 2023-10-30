@@ -38,11 +38,12 @@ Regressão Linear: técnica estatística que permite modelar a relação entre v
 **Métricas Aplicadas:**
 Aplicou-se as seguintes métricas para se avaliar a qualidade do ajuste do modelo de Regressão Linear:
 
-• Coeficiente de Determinação - R²:  métrica estatística que varia de 0 a 1 e é usada para avaliar a qualidade do ajuste de um modelo de regressão linear 1. Mede a proporção da variância na variável dependente que é explicada pela variável independente. Quanto mais próximo de 1, melhor será o ajuste do modelo aos dados.
+• Coeficiente de Determinação - R²:  métrica estatística que varia de 0 a 1 e é usada para avaliar a qualidade do ajuste de um modelo de regressão linear. Mede a proporção da variância na variável dependente que é explicada pela variável independente. Quanto mais próximo de 1, melhor será o ajuste do modelo aos dados.
 
 • Erro Absoluto Médio – MAE: É a média das diferenças absolutas entre as previsões e os valores reais. Ele mede o tamanho médio do erro em unidades da variável dependente.
 
-• Erro Quadrático Médio - MSE:  É a média dos erros ao quadrado. Ele mede o tamanho médio do erro em unidades da variável dependente, mas penaliza erros maiores mais fortemente do que erros menores .
+• Erro Quadrático Médio - MSE:  É a média dos erros ao quadrado. Ele mede o tamanho médio do erro em unidades da variável dependente, mas penaliza erros maiores mais fortemente do que erros menores.
+
 • Raiz do Erro Quadrático Médio - RMSE:  É a raiz quadrada da média dos erros ao quadrado. Ele mede o tamanho médio do erro em unidades da variável dependente, mas penaliza erros maiores mais fortemente do que erros menores .
 
 
