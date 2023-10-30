@@ -1,4 +1,4 @@
-# Regressao_LinearMultipla_Cars
+# Regressao_Linear.CarsPrice
 
 ## Descrição Projeto
 
