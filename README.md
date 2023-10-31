@@ -58,6 +58,7 @@ Aplicou-se as seguintes métricas para se avaliar a qualidade do ajuste do model
 4° Utilizar histograma para verificar a distribuição dos dados relacionados a variável dependente.
 
 5° Aplicar MinMaxScaler para colocar os dados na mesma escala, ou em escalas mais próximas;
+
 6° Aplicar Statsmodel para analisar P-Values das variáveis explicativas. Retirar do modelo variáveis com P-Values altos, testando o modelo de machine learning apenas com variáveis que possuírem P-Values abaixo de 0,05:
 
 
